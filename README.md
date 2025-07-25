@@ -28,7 +28,7 @@ http://localhost:8000/docs
 
 POST /evaluate
 
-🔸 Payload example:
+Payload example:
 
 {
   "transaction_id": 123,
@@ -40,7 +40,7 @@ POST /evaluate
   "device_id": 321
 }
 
-🔸 Response example:
+Response example:
 
 {
   "transaction_id": 123,
